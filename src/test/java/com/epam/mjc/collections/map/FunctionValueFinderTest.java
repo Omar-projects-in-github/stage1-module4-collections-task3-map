@@ -23,7 +23,7 @@ public class FunctionValueFinderTest {
                         false),
 
                 Arguments.of("Present",
-                        List.of(2, -6, 10, 19, 55, 11),
+                        List.of(2, -6, 10, 19, 52, 11),
                         52,
                         true)
         );
